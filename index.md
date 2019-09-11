@@ -9,8 +9,8 @@
 [1688选品](https://williamwei2013.github.io/selectionV1/start.html#g=1&p=1_1-1688-__)
 [FB广告选品](https://williamwei2013.github.io/selectionV1/start.html#g=1&p=fb%E5%B9%BF%E5%91%8A%E9%80%89%E5%93%81%E5%BA%93-pop-%E5%BE%85%E9%80%89)
 
-选品项目组
---|:--:|--:
+选品|项目组|
+--|:--:
 
 RD |崔乔
 RD |许恒
