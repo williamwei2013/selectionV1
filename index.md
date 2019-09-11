@@ -10,12 +10,12 @@
 [FB广告选品](https://williamwei2013.github.io/selectionV1/start.html#g=1&p=fb%E5%B9%BF%E5%91%8A%E9%80%89%E5%93%81%E5%BA%93-pop-%E5%BE%85%E9%80%89)
 
 选品|项目组|
---|:--:
+-|-:|
 
-RD |崔乔
-RD |许恒
-FE |赵维静
-QA |胡梅
-UI |张冠鹏
-PM |王玮
+RD |崔乔|
+RD |许恒|
+FE |赵维静|
+QA |胡梅|
+UI |张冠鹏|
+PM |王玮|
 
