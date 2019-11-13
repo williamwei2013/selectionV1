@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:837px;
+  width:705px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,12 +12,12 @@
   position:absolute;
   z-index:0;
 }
-#u35186_div {
+#u35180_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:785px;
-  height:393px;
+  width:653px;
+  height:192px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -26,17 +26,17 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u35186 {
+#u35180 {
   position:absolute;
   left:52px;
-  top:39px;
-  width:785px;
-  height:393px;
+  top:42px;
+  width:653px;
+  height:192px;
 }
-#u35187 {
+#u35181 {
   position:absolute;
   left:0px;
   top:0px;
-  width:785px;
-  word-wrap:break-word;
+  width:653px;
+  white-space:nowrap;
 }
